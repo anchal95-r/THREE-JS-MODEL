@@ -82,5 +82,10 @@ git clone --depth=1 https://github.com/mrdoob/three.js.git
 [deepscan]: https://deepscan.io/api/teams/16600/projects/19901/branches/525701/badge/grade.svg
 [deepscan-url]: https://deepscan.io/dashboard#view=project&tid=16600&pid=19901&bid=525701
 [discord]: https://img.shields.io/discord/685241246557667386
-[discord-url]: https://discord.gg/56GBJwAnUS
+[discord-url]: https://discord.gg/56GBJwAn
+live preview
+https://anchal95-r.github.io/THREE-JS-MODEL/examples/webgl_decals.html
+![image](https://github.com/user-attachments/assets/b17bd46d-dda0-4167-a51c-cd74fcb89473)
+![image](https://github.com/user-attachments/assets/84fa1c1a-3e9e-402f-a6cc-331760907a75)
+
 
